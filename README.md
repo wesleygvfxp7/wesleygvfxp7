@@ -217,11 +217,7 @@ APIs                Recovery            CLI
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │                                                         │
-│  [ WEB ]       Development & APIs                      │
-│  [ ANDROID ]   System exploration & customization     │
-│  [ LINUX ]     Systems & open source                   │
-│  [ DESIGN ]    Visual identity & graphics              │
-│  [ TECH ]      Experiments & research                  │
+│  [ NODE.JS ]    KishouBOT um bot para WhatsApp            │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
