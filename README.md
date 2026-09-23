@@ -1,10 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:111111,100:1a1a1a&text=WESLEY%20GOMES&fontColor=ffffff&fontSize=55&fontAlignY=40&desc=DEVELOPER%20%E2%80%A2%20ANDROID%20%E2%80%A2%20DESIGN%20%E2%80%A2%20TECHNOLOGY&descAlignY=62&descSize=16&animation=fadeIn">
-
+  
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=WEB+DEVELOPER+%2F%2F+TECH+ENTHUSIAST;ANDROID+EXPLORER+%2F%2F+LINUX+USER;GRAPHIC+DESIGNER+%2F%2F+CREATIVE+MIND;BUILDING+IDEAS+INTO+REAL+PROJECTS;CODE.+DESIGN.+EXPLORE.+REPEAT.">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&width=800&lines=WEB+DEVELOPER+%2F%2F+TECH+ENTHUSIAST;ANDROID+EXPLORER+%2F%2F+W3SL3Y;GRAPHIC+DESIGNER+%2F%2F+CREATIVE+MIND;BUILDING+IDEAS+INTO+REAL+PROJECTS;CODE.+DESIGN.+EXPLORE.+REPEAT.">
 
 <br>
 
